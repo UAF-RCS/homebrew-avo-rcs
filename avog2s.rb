@@ -10,7 +10,7 @@ class Avog2s < Formula
   depends_on "netcdf"
   depends_on "eccodes"
   depends_on "openblas"
-  depends_on "shtools"
+#  depends_on "shtools"
   depends_on "ibrewster/avo/hourssince"
   depends_on "ibrewster/avo/projection"
   depends_on "ibrewster/avo/volcano-ash3d-metreader"
